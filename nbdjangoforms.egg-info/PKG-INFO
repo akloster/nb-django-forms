@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: nbdjangoforms
+Version: 0.1
+Summary: Tools to use Django forms interactively inside the IPython Notebook
+Home-page: UNKNOWN
+Author: Andreas Klostermann
+Author-email: andreasklostermann@gmail.com
+License: BSD 2-clause
+Description: Some tools to use Django forms inside IPython Notebook interactively
+Platform: ALL
